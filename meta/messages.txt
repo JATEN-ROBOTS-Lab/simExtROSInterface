@@ -1,3 +1,4 @@
+jaten_msgs/ChassisData
 control_msgs/JointControllerState
 control_msgs/JointTolerance
 diagnostic_msgs/DiagnosticArray
